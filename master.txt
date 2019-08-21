@@ -10,3 +10,4 @@ halo ini v1
   rilis 2.0
 
   rilis 2.1
+  rilis 3.0
