@@ -4,3 +4,7 @@ halo ini v1
   tambahan fitur 1.1.1
   tambahan fitur 1.1.2
   tambahan fitur 1.1.3
+
+
+
+  rilis 2.0
